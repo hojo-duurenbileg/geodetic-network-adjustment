@@ -1,0 +1,10 @@
+build/
+*.o
+*.exe
+.vs/
+x64/
+Debug/
+Release/
+*.ipch
+*.suo
+*.db
